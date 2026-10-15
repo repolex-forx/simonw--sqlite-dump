@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "sqlite-dump",
+  "versions": [
+    {
+      "commit": "14655bedf4e99eaae9a60ffac2223c0e846f4684",
+      "tag": "0.1.1",
+      "parsed_at": "2026-10-15T09:08:39.876009+00:00"
+    }
+  ]
+}
