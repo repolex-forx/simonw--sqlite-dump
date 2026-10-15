@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/sqlite-dump/commit/14655bedf4e99eaae9a60ffac2223c0e846f4684",
       "git:hexsha": "14655bedf4e99eaae9a60ffac2223c0e846f4684",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.1.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.1.1",
+      "repolex:parsedAt": "2026-10-15T09:08:39.875616+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/sqlite-dump/commit/0d7ccdce738d0142a28d2ed74c5af1ebd1128674",
